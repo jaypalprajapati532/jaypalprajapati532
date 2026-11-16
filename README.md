@@ -10,8 +10,9 @@ I specialize in building scalable data pipelines, transforming raw datasets into
 * **Big Data & ETL:** Apache Spark (PySpark), Hadoop, ETL/ELT Pipelines
 * **Programming & Querying:** Python (Pandas, NumPy, Scikit-Learn), SQL
 * **Data Visualization & BI:** Power BI, Advanced Excel
-* **Databases & Tools:** MySQL, PostgreSQL, Git, GitHub, Jupyter Notebook, Google colab
-* ---
+* **Databases & Tools:** MySQL, PostgreSQL, Git, GitHub, Jupyter Notebook, Google Colab
+
+---
 
 ### 🚀 Featured Projects
 
@@ -24,7 +25,7 @@ I specialize in building scalable data pipelines, transforming raw datasets into
 ---
 
 ### 📊 GitHub Stats
-![Jaypal's GitHub Stats](https://vercel.app)
+![Jaypal's GitHub Stats](https://demolab.com)
 
 ---
 
