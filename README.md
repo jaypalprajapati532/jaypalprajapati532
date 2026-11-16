@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there, I'm Jaypal Prajapati 👋
 
-<!--
-**jaypalprajapati532/jaypalprajapati532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer & Analyst | PGCP-DBDA (CDAC Noida) • M.Sc. Mathematics**
 
-Here are some ideas to get you started:
+I specialize in building scalable data pipelines, transforming raw datasets into actionable business insights, and developing predictive Machine Learning models. Currently open to **Data Engineer** and **Data Analyst** roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+* **Big Data & ETL:** Apache Spark (PySpark), Hadoop, ETL/ELT Pipelines
+* **Programming & Querying:** Python (Pandas, NumPy, Scikit-Learn), SQL
+* **Data Visualization & BI:** Power BI, Advanced Excel
+* **Databases & Tools:** MySQL, PostgreSQL, Git, GitHub, Jupyter Notebook, Google colab
+* ---
+
+### 🚀 Featured Projects
+
+1. **[MEAIFY - AI-Assisted Evaluation Platform](https://github.com)**
+   * An intelligent platform that digitizes and evaluates handwritten exam answer sheets using OCR and Machine Learning.
+
+2. **[Road Accident Severity Predictions](https://github.com)**
+   * End-to-end data pipeline and ML model predicting accident severity (Slight, Serious, Fatal) using weather, road conditions, lighting, and vehicle data, backed by SQL database storage and Python analytics.
+
+---
+
+### 📊 GitHub Stats
+![Jaypal's GitHub Stats](https://vercel.app)
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **Email:** jaypalprajapati532@gmail.com
+
