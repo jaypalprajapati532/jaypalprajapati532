@@ -24,13 +24,11 @@ I specialize in building scalable data pipelines, transforming raw datasets into
 
 ---
 
-### 📊 GitHub Stats
-![Jaypal's GitHub Stats](https://demolab.com)
 
----
 
 ### 📫 Connect with Me
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-* **Email:** jaypalprajapati532@gmail.com
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Gmail](https://shields.io)](mailto:jaypalprajapati532@gmail.com)
+
 
 
